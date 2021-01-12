@@ -20,7 +20,7 @@ Vervolgens voeg dit toe aan de aangemaakte css file
 @tailwind utilities;
 ```
 
-### aos
+### AOS
 Voeg deze regels toe aan het bestand waarin je scroll effecten wilt gebruiken
 ```bash 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous"></script>
@@ -28,7 +28,7 @@ Voeg deze regels toe aan het bestand waarin je scroll effecten wilt gebruiken
 ```
 Een lijst van alle effecten zijn hier te vinden [Animate On Scroll Library](https://michalsnik.github.io/aos/)
 
-### heroicons
+### Heroicons
 De icons die ik gebruikt heb in mijn portfolio zijn hier afkomstig van [heroicons](https://heroicons.dev/)
 
 
