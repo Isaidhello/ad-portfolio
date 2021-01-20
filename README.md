@@ -10,7 +10,7 @@ Tailwind is a utility-first CSS framework. In contrast to other CSS frameworks l
 Clone or download the project and navigate to the public folder which contains index.html. You can open this in a browser/editor of choice to view or make changes to the project.
 
 ## Libraries
-#### Installatie tailwind
+#### Installation Tailwind
 Open a terminal and run the following command
 ```bash 
 npm install tailwindcss@latest postcss@latest autoprefixer@latest
