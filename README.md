@@ -1,5 +1,6 @@
 # Adam Bye portfolio
 This is my portfolio made in Tailwind CSS in which I present projects I've made and showcase my skills.
+![portfolio](https://user-images.githubusercontent.com/47569957/105241293-c1727a00-5b6d-11eb-8783-a78866f2a98b.PNG)
 
 ## What is Tailwind
 
