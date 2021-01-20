@@ -34,3 +34,6 @@ De icons die ik gebruikt heb in mijn portfolio zijn hier afkomstig van [heroicon
 
 ## Documentation
 Voor de volledige documentatie ga naar [Tailwind](https://tailwindcss.com/docs)
+
+## License
+[MIT](https://github.com/Isaidhello/ad-portfolio/blob/master/LICENSE)
