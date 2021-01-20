@@ -1,5 +1,5 @@
 # Adam Bye portfolio
-Dit is mijn portfolio die ik gemaakt heb tijdens de developement vrijdagen.
+Dit is mijn portfolio die ik gemaakt heb tijdens de developement vrijdagen hierin laat ik gemaakte werk zien en mijn talenten.
 
 ## Getting started
 Clone of download het project en navigeer naar de public folder waarin index.html zit. Open deze in de browser/editor naar keuze om aanpassingen te maken aan het project.
